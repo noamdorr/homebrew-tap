@@ -1,6 +1,6 @@
 cask "quotacanary" do
-  version "0.1.10"
-  sha256 "b23065fe6f43a8b3cbf63c5d976c145ec1e03b66ad31fea91093d7096a2b8bbd"
+  version "0.1.11"
+  sha256 "c6bc194e6a82cfcf8e184f154e63e0badf8b62d703c75a6abe5aab447e4b6bfa"
 
   url "https://github.com/noamdorr/quotacanary-oss/releases/download/mac-v#{version}/QuotaCanary-#{version}.dmg"
   name "QuotaCanary"
